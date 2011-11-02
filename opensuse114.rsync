@@ -1,0 +1,5 @@
+SRCPATH='/opensuse/distribution/11.4'
+DSTPATH='/exports/home/exports/opensuse'
+SRCHOST='rsync.gtlib.gatech.edu'
+EXCLUDEPATHS='11.4/delta 11.4/iso'
+DISTROVERSIONDIR='11.4'

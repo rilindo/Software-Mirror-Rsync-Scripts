@@ -1,0 +1,5 @@
+SRCPATH='/scientific/6.1'
+DSTPATH='/exports/home/exports/sl'
+SRCHOST='rsync.gtlib.gatech.edu'
+EXCLUDEPATHS='6.1/archive 6.1/i386/archive 6.1/x86_64/archive 6.1/i386/iso 6.1/x86_64/iso'
+DISTROVERSIONDIR='6'

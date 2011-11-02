@@ -1,0 +1,5 @@
+SRCPATH='/centos/6.0'
+DSTPATH='/exports/home/exports/centos'
+SRCHOST='rsync.gtlib.gatech.edu'
+EXCLUDEPATHS='6.0/isos'
+DISTROVERSIONDIR='6'

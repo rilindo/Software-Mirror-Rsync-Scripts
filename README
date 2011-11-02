@@ -1,0 +1,11 @@
+Bash script I used to rsync software. Mostly for personal use, but I am putting it up there in mostly for posterity (in case I need to use it someplace else). Feel free to use if. Usual disclaimers apply. :).
+
+To use:
+
+1. Create a .rsync file and put it in a directory of your choice (use included .rsync file as a template for now).
+2. Update global.conf file and put it in the same directory as your .rsync files.
+3. Copy rsync-dist.sh file, update RPATH to the directory that contains your .rsync file,s
+4. Test it.
+5. If it works, add it to cron. Otherwise, let me know and I'll fix it. :)
+
+ - Rilindo
